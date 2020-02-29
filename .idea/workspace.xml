@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Leetcode" targetName="Leetcode" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ad98e4d-0f0d-4e98-9566-fea8fec81495" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1YTKCGqd0hmSRtfLef7q3rZZWu8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Leetcode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="Leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="Leetcode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ad98e4d-0f0d-4e98-9566-fea8fec81495" name="Default Changelist" comment="" />
+      <created>1582961014163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582961014163</updated>
+      <workItem from="1582961015408" duration="24842000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="91" key="#New_File_Extensions" timestamp="1582974681527">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="328" y="91" key="#New_File_Extensions/0.0.1470.864@0.0.1470.864" timestamp="1582974681527" />
+    <state x="190" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582961078061">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="190" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1470.864@0.0.1470.864" timestamp="1582961078061" />
+    <state x="466" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582974705936">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="466" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1470.864@0.0.1470.864" timestamp="1582974705936" />
+    <state x="69" y="121" key="FileChooserDialogImpl" timestamp="1582964533172">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="69" y="121" key="FileChooserDialogImpl/0.0.1470.864@0.0.1470.864" timestamp="1582964533172" />
+    <state width="1427" height="223" key="GridCell.Tab.0.bottom" timestamp="1582987917132">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="223" key="GridCell.Tab.0.bottom/0.0.1470.864@0.0.1470.864" timestamp="1582987917132" />
+    <state width="1427" height="223" key="GridCell.Tab.0.center" timestamp="1582987917132">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="223" key="GridCell.Tab.0.center/0.0.1470.864@0.0.1470.864" timestamp="1582987917132" />
+    <state width="1427" height="223" key="GridCell.Tab.0.left" timestamp="1582987917132">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="223" key="GridCell.Tab.0.left/0.0.1470.864@0.0.1470.864" timestamp="1582987917132" />
+    <state width="1427" height="223" key="GridCell.Tab.0.right" timestamp="1582987917132">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state width="1427" height="223" key="GridCell.Tab.0.right/0.0.1470.864@0.0.1470.864" timestamp="1582987917132" />
+    <state x="244" y="75" width="1051" height="714" key="SettingsEditor" timestamp="1582964535968">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="244" y="75" width="1051" height="714" key="SettingsEditor/0.0.1470.864@0.0.1470.864" timestamp="1582964535968" />
+    <state x="844" y="79" key="refactoring.ChangeSignatureDialog" timestamp="1582975829501">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="844" y="79" key="refactoring.ChangeSignatureDialog/0.0.1470.864@0.0.1470.864" timestamp="1582975829501" />
+    <state x="328" y="91" key="scopes" timestamp="1582974495272">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="328" y="91" key="scopes/0.0.1470.864@0.0.1470.864" timestamp="1582974495272" />
+    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1582987893964">
+      <screen x="0" y="0" width="1470" height="864" />
+    </state>
+    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1470.864@0.0.1470.864" timestamp="1582987893964" />
+  </component>
+</project>
