@@ -108,12 +108,54 @@ CMakeFiles/Leetcode.dir/4.Median_of_Two_Sorted_Arrays.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/4.Median_of_Two_Sorted_Arrays.cpp.s"
 	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Data\Documents\CLionProjects\Leetcode\4.Median of Two Sorted Arrays.cpp" -o CMakeFiles\Leetcode.dir\4.Median_of_Two_Sorted_Arrays.cpp.s
 
+CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.obj: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.obj: ../5.Longest\ Palindromic\ Substring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Data\Documents\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.obj"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode.dir\5.Longest_Palindromic_Substring.cpp.obj -c "D:\Data\Documents\CLionProjects\Leetcode\5.Longest Palindromic Substring.cpp"
+
+CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.i"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Data\Documents\CLionProjects\Leetcode\5.Longest Palindromic Substring.cpp" > CMakeFiles\Leetcode.dir\5.Longest_Palindromic_Substring.cpp.i
+
+CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.s"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Data\Documents\CLionProjects\Leetcode\5.Longest Palindromic Substring.cpp" -o CMakeFiles\Leetcode.dir\5.Longest_Palindromic_Substring.cpp.s
+
+CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.obj: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.obj: ../6.ZigZag\ Conversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Data\Documents\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.obj"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode.dir\6.ZigZag_Conversion.cpp.obj -c "D:\Data\Documents\CLionProjects\Leetcode\6.ZigZag Conversion.cpp"
+
+CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.i"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Data\Documents\CLionProjects\Leetcode\6.ZigZag Conversion.cpp" > CMakeFiles\Leetcode.dir\6.ZigZag_Conversion.cpp.i
+
+CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.s"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Data\Documents\CLionProjects\Leetcode\6.ZigZag Conversion.cpp" -o CMakeFiles\Leetcode.dir\6.ZigZag_Conversion.cpp.s
+
+CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.obj: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.obj: ../7.Reverse\ Integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Data\Documents\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.obj"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE"  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Leetcode.dir\7.Reverse_Integer.cpp.obj -c "D:\Data\Documents\CLionProjects\Leetcode\7.Reverse Integer.cpp"
+
+CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.i"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\Data\Documents\CLionProjects\Leetcode\7.Reverse Integer.cpp" > CMakeFiles\Leetcode.dir\7.Reverse_Integer.cpp.i
+
+CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.s"
+	"D:\Program Files\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE" $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\Data\Documents\CLionProjects\Leetcode\7.Reverse Integer.cpp" -o CMakeFiles\Leetcode.dir\7.Reverse_Integer.cpp.s
+
 # Object files for target Leetcode
 Leetcode_OBJECTS = \
 "CMakeFiles/Leetcode.dir/1.Two_Sum.cpp.obj" \
 "CMakeFiles/Leetcode.dir/2.Add_Two_Numbers.cpp.obj" \
 "CMakeFiles/Leetcode.dir/3.Longest_Substring_Without_Repeating_Characters.cpp.obj" \
-"CMakeFiles/Leetcode.dir/4.Median_of_Two_Sorted_Arrays.cpp.obj"
+"CMakeFiles/Leetcode.dir/4.Median_of_Two_Sorted_Arrays.cpp.obj" \
+"CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.obj" \
+"CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.obj" \
+"CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.obj"
 
 # External object files for target Leetcode
 Leetcode_EXTERNAL_OBJECTS =
@@ -122,11 +164,14 @@ Leetcode.exe: CMakeFiles/Leetcode.dir/1.Two_Sum.cpp.obj
 Leetcode.exe: CMakeFiles/Leetcode.dir/2.Add_Two_Numbers.cpp.obj
 Leetcode.exe: CMakeFiles/Leetcode.dir/3.Longest_Substring_Without_Repeating_Characters.cpp.obj
 Leetcode.exe: CMakeFiles/Leetcode.dir/4.Median_of_Two_Sorted_Arrays.cpp.obj
+Leetcode.exe: CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.obj
+Leetcode.exe: CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.obj
+Leetcode.exe: CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.obj
 Leetcode.exe: CMakeFiles/Leetcode.dir/build.make
 Leetcode.exe: CMakeFiles/Leetcode.dir/linklibs.rsp
 Leetcode.exe: CMakeFiles/Leetcode.dir/objects1.rsp
 Leetcode.exe: CMakeFiles/Leetcode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Data\Documents\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Leetcode.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Data\Documents\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Leetcode.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Leetcode.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

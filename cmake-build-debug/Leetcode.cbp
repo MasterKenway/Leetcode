@@ -92,6 +92,15 @@
 		<Unit filename="D:/Data/Documents/CLionProjects/Leetcode/4.Median of Two Sorted Arrays.cpp">
 			<Option target="Leetcode"/>
 		</Unit>
+		<Unit filename="D:/Data/Documents/CLionProjects/Leetcode/5.Longest Palindromic Substring.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="D:/Data/Documents/CLionProjects/Leetcode/6.ZigZag Conversion.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="D:/Data/Documents/CLionProjects/Leetcode/7.Reverse Integer.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
 		<Unit filename="D:/Data/Documents/CLionProjects/Leetcode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

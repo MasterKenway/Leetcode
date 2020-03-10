@@ -230,6 +230,87 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/4.Median_of_Two_Sorted_Arrays.cpp.s
 .PHONY : 4.Median_of_Two_Sorted_Arrays.cpp.s
 
+5.Longest_Palindromic_Substring.obj: 5.Longest_Palindromic_Substring.cpp.obj
+
+.PHONY : 5.Longest_Palindromic_Substring.obj
+
+# target to build an object file
+5.Longest_Palindromic_Substring.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.obj
+.PHONY : 5.Longest_Palindromic_Substring.cpp.obj
+
+5.Longest_Palindromic_Substring.i: 5.Longest_Palindromic_Substring.cpp.i
+
+.PHONY : 5.Longest_Palindromic_Substring.i
+
+# target to preprocess a source file
+5.Longest_Palindromic_Substring.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.i
+.PHONY : 5.Longest_Palindromic_Substring.cpp.i
+
+5.Longest_Palindromic_Substring.s: 5.Longest_Palindromic_Substring.cpp.s
+
+.PHONY : 5.Longest_Palindromic_Substring.s
+
+# target to generate assembly for a file
+5.Longest_Palindromic_Substring.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.s
+.PHONY : 5.Longest_Palindromic_Substring.cpp.s
+
+6.ZigZag_Conversion.obj: 6.ZigZag_Conversion.cpp.obj
+
+.PHONY : 6.ZigZag_Conversion.obj
+
+# target to build an object file
+6.ZigZag_Conversion.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.obj
+.PHONY : 6.ZigZag_Conversion.cpp.obj
+
+6.ZigZag_Conversion.i: 6.ZigZag_Conversion.cpp.i
+
+.PHONY : 6.ZigZag_Conversion.i
+
+# target to preprocess a source file
+6.ZigZag_Conversion.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.i
+.PHONY : 6.ZigZag_Conversion.cpp.i
+
+6.ZigZag_Conversion.s: 6.ZigZag_Conversion.cpp.s
+
+.PHONY : 6.ZigZag_Conversion.s
+
+# target to generate assembly for a file
+6.ZigZag_Conversion.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.s
+.PHONY : 6.ZigZag_Conversion.cpp.s
+
+7.Reverse_Integer.obj: 7.Reverse_Integer.cpp.obj
+
+.PHONY : 7.Reverse_Integer.obj
+
+# target to build an object file
+7.Reverse_Integer.cpp.obj:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.obj
+.PHONY : 7.Reverse_Integer.cpp.obj
+
+7.Reverse_Integer.i: 7.Reverse_Integer.cpp.i
+
+.PHONY : 7.Reverse_Integer.i
+
+# target to preprocess a source file
+7.Reverse_Integer.cpp.i:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.i
+.PHONY : 7.Reverse_Integer.cpp.i
+
+7.Reverse_Integer.s: 7.Reverse_Integer.cpp.s
+
+.PHONY : 7.Reverse_Integer.s
+
+# target to generate assembly for a file
+7.Reverse_Integer.cpp.s:
+	$(MAKE) -f CMakeFiles\Leetcode.dir\build.make CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.s
+.PHONY : 7.Reverse_Integer.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -251,6 +332,15 @@ help:
 	@echo ... 4.Median_of_Two_Sorted_Arrays.obj
 	@echo ... 4.Median_of_Two_Sorted_Arrays.i
 	@echo ... 4.Median_of_Two_Sorted_Arrays.s
+	@echo ... 5.Longest_Palindromic_Substring.obj
+	@echo ... 5.Longest_Palindromic_Substring.i
+	@echo ... 5.Longest_Palindromic_Substring.s
+	@echo ... 6.ZigZag_Conversion.obj
+	@echo ... 6.ZigZag_Conversion.i
+	@echo ... 6.ZigZag_Conversion.s
+	@echo ... 7.Reverse_Integer.obj
+	@echo ... 7.Reverse_Integer.i
+	@echo ... 7.Reverse_Integer.s
 .PHONY : help
 
 

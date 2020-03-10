@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/Data/Documents/CLionProjects/Leetcode/2.Add Two Numbers.cpp" "D:/Data/Documents/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/2.Add_Two_Numbers.cpp.obj"
   "D:/Data/Documents/CLionProjects/Leetcode/3.Longest Substring Without Repeating Characters.cpp" "D:/Data/Documents/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/3.Longest_Substring_Without_Repeating_Characters.cpp.obj"
   "D:/Data/Documents/CLionProjects/Leetcode/4.Median of Two Sorted Arrays.cpp" "D:/Data/Documents/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/4.Median_of_Two_Sorted_Arrays.cpp.obj"
+  "D:/Data/Documents/CLionProjects/Leetcode/5.Longest Palindromic Substring.cpp" "D:/Data/Documents/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/5.Longest_Palindromic_Substring.cpp.obj"
+  "D:/Data/Documents/CLionProjects/Leetcode/6.ZigZag Conversion.cpp" "D:/Data/Documents/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/6.ZigZag_Conversion.cpp.obj"
+  "D:/Data/Documents/CLionProjects/Leetcode/7.Reverse Integer.cpp" "D:/Data/Documents/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/7.Reverse_Integer.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
