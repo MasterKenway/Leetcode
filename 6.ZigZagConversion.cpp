@@ -20,13 +20,13 @@ public:
     }
 };
 
-int main() {
-    std::string s = "LEETCODEISHIRING";
-    int numRows = 3;
-
-
-    Solution solution;
-    std::string target = solution.convert(s, numRows);
-
-    std::cout << target << std::endl;
-}
+//int main() {
+//    std::string s = "LEETCODEISHIRING";
+//    int numRows = 3;
+//
+//
+//    Solution solution;
+//    std::string target = solution.convert(s, numRows);
+//
+//    std::cout << target << std::endl;
+//}

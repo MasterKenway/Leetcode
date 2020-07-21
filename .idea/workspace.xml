@@ -12,30 +12,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ad98e4d-0f0d-4e98-9566-fea8fec81495" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Kenway.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.Longest Palindromic Substring.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.ZigZag Conversion.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7.Reverse Integer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.ContainerWithMostWater.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.IntegerToRoman.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/312.BurstBalloons.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.StringToInteger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.PalindromeNumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/95.UniqueBinarySearchTreesII.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.Median of Two Sorted Arrays.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/4.Median of Two Sorted Arrays.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Two Sum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1.TwoSum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Add Two Numbers.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2.AddTwoNumbers.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Longest Substring Without Repeating Characters.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/3.LongestSubstringWithoutRepeatingCharacters.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.Median of Two Sorted Arrays.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/4.MedianOfTwoSortedArrays.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Longest Palindromic Substring.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/5.LongestPalindromicSubstring.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.ZigZag Conversion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/6.ZigZagConversion.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.Reverse Integer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/7.ReverseInteger.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/1.Two_Sum.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/1.Two_Sum.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/3.Longest_Substring_Without_Repeating_Characters.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/3.Longest_Substring_Without_Repeating_Characters.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/1.Two_Sum.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/2.Add_Two_Numbers.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/3.Longest_Substring_Without_Repeating_Characters.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/linklibs.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Leetcode.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Leetcode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Leetcode.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Leetcode.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Leetcode.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +76,30 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MasterKenway &lt;edwardkenwaycjm@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YTKCGqd0hmSRtfLef7q3rZZWu8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
-    <configuration name="Leetcode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="Leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="Leetcode">
+    <configuration name="Leetcode" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Leetcode" TARGET_NAME="Leetcode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Leetcode" RUN_TARGET_NAME="Leetcode">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -84,96 +120,114 @@
       <workItem from="1583224006199" duration="160000" />
       <workItem from="1583394723075" duration="8677000" />
       <workItem from="1583479089289" duration="509000" />
-      <workItem from="1583835879695" duration="21143000" />
+      <workItem from="1583835879695" duration="21418000" />
+      <workItem from="1584265859405" duration="4000" />
+      <workItem from="1594903463186" duration="4532000" />
+      <workItem from="1594989860446" duration="2135000" />
+      <workItem from="1595137136007" duration="742000" />
+      <workItem from="1595137915948" duration="5771000" />
+      <workItem from="1595223425181" duration="6810000" />
+      <workItem from="1595303161909" duration="1837000" />
+      <workItem from="1595322714685" duration="5593000" />
     </task>
+    <task id="LOCAL-00001" summary="Update No.4 No.5 No.6">
+      <created>1583862712470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583862712470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update No.4 No.5 No.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update No.4 No.5 No.6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="94" key="#Inspections" timestamp="1583044750579">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="689" height="145" key="GridCell.Tab.0.bottom" timestamp="1595327770778">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state x="656" y="94" key="#Inspections/0.0.1470.864@0.0.1470.864" timestamp="1583044750579" />
-    <state x="328" y="91" key="#New_File_Extensions" timestamp="1582974681527">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="689" height="145" key="GridCell.Tab.0.bottom/0.0.1471.864@0.0.1471.864" timestamp="1595327770778" />
+    <state width="689" height="145" key="GridCell.Tab.0.center" timestamp="1595327770778">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state x="328" y="91" key="#New_File_Extensions/0.0.1470.864@0.0.1470.864" timestamp="1582974681527" />
-    <state x="190" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582961078061">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="689" height="145" key="GridCell.Tab.0.center/0.0.1471.864@0.0.1471.864" timestamp="1595327770778" />
+    <state width="689" height="145" key="GridCell.Tab.0.left" timestamp="1595327770777">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state x="190" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1470.864@0.0.1470.864" timestamp="1582961078061" />
-    <state x="466" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582974705936">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="689" height="145" key="GridCell.Tab.0.left/0.0.1471.864@0.0.1471.864" timestamp="1595327770777" />
+    <state width="689" height="145" key="GridCell.Tab.0.right" timestamp="1595327770778">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state x="466" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1470.864@0.0.1470.864" timestamp="1582974705936" />
-    <state x="289" y="27" key="CommitChangelistDialog2" timestamp="1583858229349">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="689" height="145" key="GridCell.Tab.0.right/0.0.1471.864@0.0.1471.864" timestamp="1595327770778" />
+    <state width="688" height="279" key="GridCell.Tab.1.bottom" timestamp="1595263063611">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state x="289" y="27" key="CommitChangelistDialog2/0.0.1470.864@0.0.1470.864" timestamp="1583858229349" />
-    <state x="69" y="121" key="FileChooserDialogImpl" timestamp="1582964533172">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="688" height="279" key="GridCell.Tab.1.bottom/0.0.1471.864@0.0.1471.864" timestamp="1595263063611" />
+    <state width="688" height="279" key="GridCell.Tab.1.center" timestamp="1595263063610">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state x="69" y="121" key="FileChooserDialogImpl/0.0.1470.864@0.0.1470.864" timestamp="1582964533172" />
-    <state width="1429" height="223" key="GridCell.Tab.0.bottom" timestamp="1583857504688">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="688" height="279" key="GridCell.Tab.1.center/0.0.1471.864@0.0.1471.864" timestamp="1595263063610" />
+    <state width="688" height="279" key="GridCell.Tab.1.left" timestamp="1595263063610">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.bottom/0.0.1470.864@0.0.1470.864" timestamp="1583857504688" />
-    <state width="1429" height="223" key="GridCell.Tab.0.center" timestamp="1583857504688">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="688" height="279" key="GridCell.Tab.1.left/0.0.1471.864@0.0.1471.864" timestamp="1595263063610" />
+    <state width="688" height="279" key="GridCell.Tab.1.right" timestamp="1595263063610">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.center/0.0.1470.864@0.0.1470.864" timestamp="1583857504688" />
-    <state width="1429" height="223" key="GridCell.Tab.0.left" timestamp="1583857504688">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state width="688" height="279" key="GridCell.Tab.1.right/0.0.1471.864@0.0.1471.864" timestamp="1595263063610" />
+    <state x="814" y="28" width="578" height="807" key="find.popup" timestamp="1595328343906">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.left/0.0.1470.864@0.0.1470.864" timestamp="1583857504688" />
-    <state width="1429" height="223" key="GridCell.Tab.0.right" timestamp="1583857504688">
-      <screen x="0" y="0" width="1470" height="864" />
+    <state x="814" y="28" width="578" height="807" key="find.popup/0.0.1471.864@0.0.1471.864" timestamp="1595328343906" />
+    <state x="399" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1595141658867">
+      <screen x="0" y="0" width="1471" height="864" />
     </state>
-    <state width="1429" height="223" key="GridCell.Tab.0.right/0.0.1470.864@0.0.1470.864" timestamp="1583857504688" />
-    <state width="1429" height="278" key="GridCell.Tab.1.bottom" timestamp="1583851982855">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state width="1429" height="278" key="GridCell.Tab.1.bottom/0.0.1470.864@0.0.1470.864" timestamp="1583851982855" />
-    <state width="1429" height="278" key="GridCell.Tab.1.center" timestamp="1583851982855">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state width="1429" height="278" key="GridCell.Tab.1.center/0.0.1470.864@0.0.1470.864" timestamp="1583851982855" />
-    <state width="1429" height="278" key="GridCell.Tab.1.left" timestamp="1583851982855">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state width="1429" height="278" key="GridCell.Tab.1.left/0.0.1470.864@0.0.1470.864" timestamp="1583851982855" />
-    <state width="1429" height="278" key="GridCell.Tab.1.right" timestamp="1583851982855">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state width="1429" height="278" key="GridCell.Tab.1.right/0.0.1470.864@0.0.1470.864" timestamp="1583851982855" />
-    <state x="244" y="75" width="1051" height="714" key="SettingsEditor" timestamp="1582964535968">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state x="244" y="75" width="1051" height="714" key="SettingsEditor/0.0.1470.864@0.0.1470.864" timestamp="1582964535968" />
-    <state x="844" y="79" key="refactoring.ChangeSignatureDialog" timestamp="1582975829501">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state x="844" y="79" key="refactoring.ChangeSignatureDialog/0.0.1470.864@0.0.1470.864" timestamp="1582975829501" />
-    <state x="328" y="91" key="scopes" timestamp="1582974495272">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state x="328" y="91" key="scopes/0.0.1470.864@0.0.1470.864" timestamp="1582974495272" />
-    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1583853885743">
-      <screen x="0" y="0" width="1470" height="864" />
-    </state>
-    <state x="398" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1470.864@0.0.1470.864" timestamp="1583853885743" />
+    <state x="399" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1471.864@0.0.1471.864" timestamp="1595141658867" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/5.Longest Palindromic Substring.cpp</url>
-          <line>5</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/312.BurstBalloons.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/312.BurstBalloons.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/312.BurstBalloons.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/312.BurstBalloons.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="this-&gt;val" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
