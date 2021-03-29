@@ -24,12 +24,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkSpace/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode"/>
@@ -45,12 +45,12 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-sjlj-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/WorkSpace/CLionProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode/fast"/>
@@ -80,43 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/1.TwoSum.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/11.ContainerWithMostWater.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/12.IntegerToRoman.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/2.AddTwoNumbers.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/3.LongestSubstringWithoutRepeatingCharacters.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/312.BurstBalloons.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/4.MedianOfTwoSortedArrays.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/5.LongestPalindromicSubstring.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/6.ZigZagConversion.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/7.ReverseInteger.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/8.StringToInteger.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/9.PalindromeNumber.cpp">
-			<Option target="Leetcode"/>
-		</Unit>
-		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/95.UniqueBinarySearchTreesII.cpp">
+		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/150.EvaluateReversePolishNotation.cpp">
 			<Option target="Leetcode"/>
 		</Unit>
 		<Unit filename="D:/WorkSpace/CLionProjects/Leetcode/CMakeLists.txt">

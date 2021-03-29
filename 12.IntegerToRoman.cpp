@@ -108,7 +108,7 @@ public:
     }
 };
 
-int main() {
-    Solution solution;
-    std::cout << solution.intToRoman(100) << std::endl;
-}
+//int main() {
+//    Solution solution;
+//    std::cout << solution.intToRoman(100) << std::endl;
+//}

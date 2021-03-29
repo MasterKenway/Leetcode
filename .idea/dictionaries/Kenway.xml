@@ -2,6 +2,7 @@
   <dictionary name="Kenway">
     <words>
       <w>cyclelen</w>
+      <w>strs</w>
     </words>
   </dictionary>
 </component>

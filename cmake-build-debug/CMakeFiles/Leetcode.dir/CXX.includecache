@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/WorkSpace/CLionProjects/Leetcode/12.IntegerToRoman.cpp
-iostream
+D:/WorkSpace/CLionProjects/Leetcode/150.EvaluateReversePolishNotation.cpp
+vector
+-
+string
+-
+stack
 -
 
