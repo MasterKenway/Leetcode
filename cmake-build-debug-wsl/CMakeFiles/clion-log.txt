@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/WorkSpace/CLionProjects/Leetcode
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/WorkSpace/CLionProjects/Leetcode/cmake-build-debug-wsl
