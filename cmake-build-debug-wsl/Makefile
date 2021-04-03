@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-150.EvaluateReversePolishNotation.o: 150.EvaluateReversePolishNotation.cpp.o
+sort/heap_sort.o: sort/heap_sort.cpp.o
 
-.PHONY : 150.EvaluateReversePolishNotation.o
+.PHONY : sort/heap_sort.o
 
 # target to build an object file
-150.EvaluateReversePolishNotation.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/150.EvaluateReversePolishNotation.cpp.o
-.PHONY : 150.EvaluateReversePolishNotation.cpp.o
+sort/heap_sort.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/sort/heap_sort.cpp.o
+.PHONY : sort/heap_sort.cpp.o
 
-150.EvaluateReversePolishNotation.i: 150.EvaluateReversePolishNotation.cpp.i
+sort/heap_sort.i: sort/heap_sort.cpp.i
 
-.PHONY : 150.EvaluateReversePolishNotation.i
+.PHONY : sort/heap_sort.i
 
 # target to preprocess a source file
-150.EvaluateReversePolishNotation.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/150.EvaluateReversePolishNotation.cpp.i
-.PHONY : 150.EvaluateReversePolishNotation.cpp.i
+sort/heap_sort.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/sort/heap_sort.cpp.i
+.PHONY : sort/heap_sort.cpp.i
 
-150.EvaluateReversePolishNotation.s: 150.EvaluateReversePolishNotation.cpp.s
+sort/heap_sort.s: sort/heap_sort.cpp.s
 
-.PHONY : 150.EvaluateReversePolishNotation.s
+.PHONY : sort/heap_sort.s
 
 # target to generate assembly for a file
-150.EvaluateReversePolishNotation.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/150.EvaluateReversePolishNotation.cpp.s
-.PHONY : 150.EvaluateReversePolishNotation.cpp.s
+sort/heap_sort.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/sort/heap_sort.cpp.s
+.PHONY : sort/heap_sort.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Leetcode"
 	@echo "... edit_cache"
-	@echo "... 150.EvaluateReversePolishNotation.o"
-	@echo "... 150.EvaluateReversePolishNotation.i"
-	@echo "... 150.EvaluateReversePolishNotation.s"
+	@echo "... sort/heap_sort.o"
+	@echo "... sort/heap_sort.i"
+	@echo "... sort/heap_sort.s"
 .PHONY : help
 
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode.dir/150.EvaluateReversePolishNotation.cpp.o"
+  "CMakeFiles/Leetcode.dir/sort/heap_sort.cpp.o"
   "Leetcode"
   "Leetcode.pdb"
 )

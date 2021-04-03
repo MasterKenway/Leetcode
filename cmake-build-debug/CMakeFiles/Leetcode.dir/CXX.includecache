@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/WorkSpace/CLionProjects/Leetcode/150.EvaluateReversePolishNotation.cpp
+D:/WorkSpace/CLionProjects/Leetcode/sort/heap_sort.cpp
+sort.h
+D:/WorkSpace/CLionProjects/Leetcode/sort/sort.h
+
+D:/WorkSpace/CLionProjects/Leetcode/sort/sort.h
 vector
 -
-string
--
-stack
+iostream
 -
 

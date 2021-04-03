@@ -3,4 +3,4 @@ project(Leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode 150.EvaluateReversePolishNotation.cpp)
+add_executable(Leetcode sort/heap_sort.cpp)
